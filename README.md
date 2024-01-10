@@ -1,5 +1,5 @@
 # Optical character recognition
-Build APIs for Optical Character Recognition (OCR): extracting relevant details from identity documents like the customer’s name, Date of birth, address, the unique identification number.  
+### Build APIs for Optical Character Recognition (OCR): Extracting relevant details from identity documents like the customer’s name, Date of birth, address, the unique identification number.  
 
 So before performing OCR we first check if the input image is a valid id proof or not. Classifier trained using Google’s cloud vision services.  
 
