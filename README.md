@@ -1,1 +1,1 @@
-# ocr-engine-
+# Optical character recognition
