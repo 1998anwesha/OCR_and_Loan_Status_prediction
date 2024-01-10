@@ -15,4 +15,6 @@ We prepocessed the data by removing outliers, replacing Null values and removing
 
 We trained an ANN model with softmax activation  (90% validation accuracy) on the output layer and added a dropout layer to prevent overfitting. Achieved better accuracy than ML models like SVM (55% accuracy) or MNB. 
 
+Please refer to this report for detailed insights on the algorithms used, models trained and the kind of data used.
+
  
